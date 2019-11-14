@@ -1,0 +1,3 @@
+class OrderComboLeg {
+  double price;
+}
